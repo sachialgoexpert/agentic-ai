@@ -18,3 +18,4 @@ chromadb
 fastapi
 uvicorn
 langchain_groq
+langserve[all]

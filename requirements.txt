@@ -19,3 +19,6 @@ fastapi
 uvicorn
 langchain_groq
 langserve[all]
+typing_extensions
+python-dotenv
+langchain_openai

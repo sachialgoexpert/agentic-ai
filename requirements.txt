@@ -22,3 +22,6 @@ langserve[all]
 typing_extensions
 python-dotenv
 langchain_openai
+arxiv
+wikipedia
+bs4

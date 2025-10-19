@@ -25,3 +25,5 @@ langchain_openai
 arxiv
 wikipedia
 bs4
+langgraph-cli[inmem]
+faiss-gpu

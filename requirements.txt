@@ -26,4 +26,6 @@ arxiv
 wikipedia
 bs4
 langgraph-cli[inmem]
-faiss-gpu
+mlflow
+pandas
+scikit-learn
